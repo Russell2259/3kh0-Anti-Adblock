@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         3kh0 Ad Blocker
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Russell2259/3kh0-Anti-Adblock/
 // @version      0.1
 // @description  An anti anti ad blocker for 3kh0
 // @author       Russell2259
