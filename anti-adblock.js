@@ -6,6 +6,7 @@
 // @author       Russell2259
 // @match        https://3kh0.net/*
 // @match        https://3kh0.github.io/*
+// @match        https://ban-appeals.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=3kh0.net
 // ==/UserScript==
 
